@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="اطلس">
+  <rect width="100" height="100" rx="22" fill="#0A1330"/>
+  <path d="M50 18 L82 50 L50 82 L18 50 Z" fill="none" stroke="#C9A24A" stroke-width="5" stroke-linejoin="round"/>
+  <circle cx="50" cy="50" r="4.5" fill="#C9A24A"/>
+</svg>
